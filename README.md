@@ -2,3 +2,17 @@
 <p align="center">
 <img src="./diodes2_files/halfWaveDiagram.jpg">
 </p>
+<div class="container">
+A set of conductors used for transmitting electrical signal is called as
+<FORM method="POST" onSubmit="return checkAnswer(this,'C','answer1');">
+<INPUT TYPE="RADIO" VALUE="A" NAME="cc"> A. Antenna<BR>
+<INPUT TYPE="RADIO" VALUE="B" NAME="cc"> B. Transmission gates<BR>
+<INPUT TYPE="RADIO" VALUE="C" NAME="cc"> C. Transmission lines<BR>
+<INPUT TYPE="RADIO" VALUE="D" NAME="cc"> D. Transformer<BR><BR>
+
+<INPUT TYPE="SUBMIT" VALUE="Check Answer"><BR>
+
+<p id="answer1"></p>
+
+</FORM>
+</div>
