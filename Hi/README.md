@@ -58,7 +58,7 @@ style='mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
 src="theory_files/image002.jpg" v:shapes="Picture_x0020_1"><![endif]></span></p>
 
 <p class=MsoNormal>The name 'di-pole' indicates that the dipole antenna
-consists of two poles or items – two conductive elements. Current flows in
+consists of two poles or items â€“ two conductive elements. Current flows in
 these two conductive elements and the current and the associated voltage causes
 an electromagnetic wave or radio signal to be radiated outwards from the
 antenna.</p>
@@ -73,6 +73,7 @@ parameters.<o:p></o:p></p>
 
 <p class=MsoNormal align=center>VIDEO</p>
 
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
 <p class=MsoNormal align=center style='text-align:center'><b>Conclusion & Outcome<o:p></o:p></b></p>
 
