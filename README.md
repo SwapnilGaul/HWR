@@ -3,6 +3,8 @@
 <img src="./diodes2_files/halfWaveDiagram.jpg">
 </p>
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+
 <div class="container">
 A set of conductors used for transmitting electrical signal is called as
 <FORM method="POST">
