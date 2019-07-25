@@ -27,8 +27,8 @@ many times a second, into a straight DC supply.<p></p>
 <p>Called a <em>half-wave rectifier</em>, this circuit takes an AC
 signal in and chops off anything that falls below 0 Volts.</p>
 
-<p>Signal In: <img src="./diodes2_files/ACin.jpg" align="middle"></p>
-<p>Signal Out (Half-wave): <img src="./diodes2_files/halfWaveOut.jpg" align="middle"></p>
+<p align="center">Signal In: <img src="./diodes2_files/ACin.jpg" align="middle"></p>
+<p align="center">Signal Out (Half-wave): <img src="./diodes2_files/halfWaveOut.jpg" align="middle"></p>
 
 <p>The half-wave rectifier is used in AM radios to rectify the signal.  But
 for a rectifier in a power supply, it leaves something to be desired -- 
