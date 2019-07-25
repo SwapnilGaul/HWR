@@ -73,7 +73,7 @@ parameters.<o:p></o:p></p>
 
 <p class=MsoNormal align=center>VIDEO</p>
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](./video.png)](https://youtu.be/T-D1KVIuvjA)
 
 <p class=MsoNormal align=center style='text-align:center'><b>Conclusion & Outcome<o:p></o:p></b></p>
 
