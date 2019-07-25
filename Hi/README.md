@@ -71,9 +71,7 @@ parameters.<o:p></o:p></p>
 
 <p class=MsoNormal align=center style='text-align:center'><o:p>&nbsp;</o:p></p>
 
-<p class=MsoNormal align=center>VIDEO</p>
-
-[![Watch the video](./video.png)](./video.mp4)
+<p class=MsoNormal align=center><---VIDEO---></p>
 
 <p class=MsoNormal align=center style='text-align:center'><b>Conclusion & Outcome<o:p></o:p></b></p>
 
