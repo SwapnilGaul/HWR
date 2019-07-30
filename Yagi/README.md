@@ -12,4 +12,4 @@
 <p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:4px; margin-right:4px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:8pt;">                                </span><img src="./README_files/video.png" /><span style=" font-size:8pt;">                 </span></p>
 
 <p align="center" style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:11px; margin-left:4px; margin-right:4px; -qt-block-indent:0; text-indent:0px; font-size:8pt;"><br /></p></body></html>
-[![Video]](https:/www.youtube.com/embed/yCJ7cN2G73g)
+[![Video]](https://www.youtube.com/embed/yCJ7cN2G73g)
